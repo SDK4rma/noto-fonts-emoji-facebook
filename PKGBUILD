@@ -1,4 +1,4 @@
-# Maintainer: timescam <timmescam at duck dot com>
+# Maintainer: timescam <timescam at duck dot com>
 
 pkgname=noto-fonts-emoji-apple
 _pkgname=noto-fonts-emoji
