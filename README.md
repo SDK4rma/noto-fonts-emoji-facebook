@@ -1,6 +1,6 @@
-# noto-fonts-emoji-apple
+# noto-fonts-emoji-facebook
 
-Google Noto emoji fonts replaced with apple branded emoji, modified form a magisk module.
+Google Noto emoji fonts replaced with Facebook branded emoji, modified form a Magisk module.
 https://t.me/s/EmojiReplacer
 
-you can get it on [aur](https://aur.archlinux.org/packages/noto-fonts-emoji-apple/)
+you can get it on [aur](#)

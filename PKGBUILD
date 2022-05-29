@@ -1,15 +1,15 @@
 # Maintainer: timescam <timescam at duck dot com>
 
-pkgname=noto-fonts-emoji-apple
+pkgname=noto-fonts-emoji-facebook
 _pkgname=noto-fonts-emoji
 pkgver=15.4
 pkgrel=2
-pkgdesc="Google Noto emoji fonts replaced with apple branded emoji, modified form a magisk module"
+pkgdesc="Google Noto emoji fonts replaced with Facebook branded emoji, modified form a Magisk module"
 arch=(any)
-url="https://gitlab.com/timescam/noto-fonts-emoji-apple"
+url="https://github.com/matmicha/noto-fonts-emoji-facebook"
 provides=(emoji-font)
 conflicts=(noto-fonts-emoji)
-source=("$_pkgname::git+https://gitlab.com/timescam/noto-fonts-emoji-apple.git")
+source=("$_pkgname::git+https://github.com/matmicha/noto-fonts-emoji-facebook.git")
 md5sums=("SKIP")
 
 package() {
